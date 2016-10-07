@@ -1,24 +1,5 @@
-# README
+Ruby 2.3.1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the ruby on rails project under Web Development 101 for The Odin Project. The project involves creating a blog system by following the Jump Start Lab tutorials.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Visit this link for more information: http://www.theodinproject.com/web-development-101/ruby-on-rails
